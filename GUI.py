@@ -1,3 +1,8 @@
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+#   *Copyrights are in name of :- SARTHAK BHATNAGAR/Python_is_pie   #
+#                                                                   #
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
 import pygame
 import time
 pygame.font.init()
